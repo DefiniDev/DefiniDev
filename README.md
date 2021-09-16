@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML/CSS + JS
 - 💞️ Not looking to collaborate (at present)
-- 📫 How to reach me : defini_dev@gmail.com
+- 📫 How to reach me : definidev@gmail.com
 
 <!---
 DefiniDev/DefiniDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
