@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DefiniDev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML/CSS + JS
+- 🌱 I’m currently learning C# / TypeScript
 - 💞️ Not looking to collaborate (at present)
 - 📫 How to reach me : definidev@gmail.com
 
